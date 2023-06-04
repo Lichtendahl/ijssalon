@@ -1,1 +1,2 @@
-print (hallo wereld !)
+print ("hallo wereld !")
+print ("welkom in de ijssalon")
